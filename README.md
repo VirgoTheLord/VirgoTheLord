@@ -1,42 +1,44 @@
-# 👋 Hi, I'm VirgoTheLord
+# Hi there, I'm Alwin Aby Mathew 👋
 
-**Frontend Developer & AI/ML Enthusiast**  
-Adept tinkerer | Passionate about building beautiful, intelligent web experiences
+**Aspiring UI/UX Developer | UI Designer | AI/ML Enthusiast | Full Stack / Frontend Developer**
 
 ---
 
 ### 🚀 About Me
 
-- 🧑‍💻 **Frontend Specialist**: Expert in crafting modern web apps using **Next.js**, **TypeScript**, and **Tailwind CSS**
-- 🤖 **AI/ML Explorer**: Always tinkering with new models and pushing the boundaries of intelligent interfaces
-- 🛠️ **Maker at Heart**: I love experimenting, learning, and sharing what I discover
+- 🎨 Passionate about creating seamless and visually appealing user experiences.
+- 🖌️ UI Designer who loves to craft creative websites using the latest libraries and technologies.
+- 🤖 Exploring the intersection of AI, machine learning, and modern web development.
+- 🛠️ Always up for troubleshooting inconsistencies and optimizing UI flows.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Frameworks:** React (with Vite), Next.js
+- **Languages:** JavaScript, CSS, HTML, Tailwind CSS, Node.js, SASS, Python
+- **Skills:** UI/UX Design, Frontend & Full Stack Development, UI Flow Creation
 
 ---
 
 ### 🌟 Featured Project
 
-[Best-dev Portfolio](https://github.com/VirgoTheLord/Best-dev-portfolio)  
-A showcase of my best work—UI wizardry, creative coding, and more. Check it out!
+[![AlwinDev](https://github-readme-stats.vercel.app/api/pin/?username=VirgoTheLord&repo=AlwinDev)](https://github.com/VirgoTheLord/AlwinDev)
+
+**AlwinDev** — Personal portfolio built using React.js and SASS.  
+A showcase of my work, skills, and passion for creative web design.
+
+**🌐 [Live Demo](https://alwindevfolio.vercel.app/)**
 
 ---
 
-### 🧰 Tech Stack
+### 📫 Contact Me
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+- 📧 Email: [alwinabyofficial@gmail.com](mailto:alwinabyofficial@gmail.com)
+- 💼 LinkedIn: [alwin-aby-mathew](https://www.linkedin.com/in/alwin-aby-mathew-6248b52a2/)
 
 ---
 
-### 📫 Connect with Me
+> “Love to design creative websites using the latest libraries, make stunning web experiences, and troubleshoot inconsistencies.”
 
-- GitHub: [VirgoTheLord](https://github.com/VirgoTheLord)
-
----
-
-<!--
-**Fun Fact:** I’m an adept tinkerer—always exploring the intersection of frontend magic and AI innovation!
--->
+Thanks for stopping by! Feel free to check out my projects and connect. 🌐

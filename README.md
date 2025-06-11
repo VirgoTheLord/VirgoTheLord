@@ -23,12 +23,12 @@
 
 ### 🌟 Featured Project
 
-[![AlwinDev](https://github-readme-stats.vercel.app/api/pin/?username=VirgoTheLord&repo=AlwinDev)](https://github.com/VirgoTheLord/AlwinDev)
+[![RogueShore](https://github-readme-stats.vercel.app/api/pin/?username=VirgoTheLord&repo=RogueShore)](https://github.com/VirgoTheLord/RogueShore)
 
-**AlwinDev** — Personal portfolio built using React.js and SASS.  
-A showcase of my work, skills, and passion for creative web design.
+**RogueShore** — An ephemeral clothing brand platform, built as a modern full-stack application.  
+Experience limited-edition drops, a seamless shopping experience, and a sleek UI.
 
-**🌐 [Live Demo](https://alwindevfolio.vercel.app/)**
+**🌐 [Live Demo](https://rogueshore.vercel.app/)**
 
 ---
 
